@@ -19,3 +19,8 @@
 <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=schblondie&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=schblondie&theme=dark" alt="GitHub Streaks" />
+
+
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
