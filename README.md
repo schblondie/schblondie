@@ -22,5 +22,5 @@
 
 
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
+  <img src="/metrics.base.svg" alt="Metrics">
 </picture>
