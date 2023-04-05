@@ -7,3 +7,9 @@
 <picture>
   <img src="/metrics.topics.svg" alt="Metrics">
 </picture>
+<picture>
+  <img src="/metrics.issues.svg" alt="Metrics">
+</picture>
+<picture>
+  <img src="/metrics.achievements.svg" alt="Metrics">
+</picture>
