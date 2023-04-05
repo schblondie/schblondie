@@ -1,4 +1,4 @@
-name: Core
+name: Topics
 on:
   # Schedule daily updates
   schedule: [{ cron: "0 0 * * *" }]
@@ -12,8 +12,10 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.core.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          filename: metrics.topics.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 12
